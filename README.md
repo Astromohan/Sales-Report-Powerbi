@@ -145,8 +145,6 @@ When a user is assigned this role, the entire report is statically filtered to U
 
 **Source:** [AdventureWorks Sales — Microsoft Power BI Desktop Samples](https://github.com/microsoft/powerbi-desktop-samples/tree/main/AdventureWorks%20Sales%20Sample)
 
-A single Excel workbook with pre-structured Dimension and Fact tables. Download the file, open the `.pbix`, update the data source path via **Transform Data → Data Source Settings**, and refresh — all relationships, measures, and RLS roles load automatically.
-
 
 ## Author
 
@@ -157,4 +155,3 @@ Senior Data Analyst & BI Specialist | Power BI PL-300 Certified | Tableau Certif
 
 ---
 
-*Built on the AdventureWorks Sales dataset provided by Microsoft under open license for training and demonstration purposes.*
