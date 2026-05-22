@@ -1,6 +1,6 @@
 # AdventureWorks Sales Report — Power BI
 
-A **production-style, multi-page Sales Analytics report** built entirely in Power BI Desktop on the AdventureWorks Sales dataset. This project demonstrates end-to-end BI development — from raw Excel source to a structured star schema, a reusable DAX measure library, cross-page drill-through, dynamic titles, and Row-Level Security.
+A **production-style, multi-page Sales Analytics report** built entirely in Power BI Desktop on the AdventureWorks Sales dataset. This project demonstrates end-to-end BI development right from refining raw Excel source to a structured star schema, building a reusable DAX measure library, enabling a cross-page drill-through, using dynamic titles, and showcsaing Row-Level Security.
 
 ---
 
