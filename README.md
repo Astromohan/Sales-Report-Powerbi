@@ -151,7 +151,5 @@ When a user is assigned this role, the entire report is statically filtered to U
 **Ashish Mohan**
 Senior Data Analyst & BI Specialist | Power BI PL-300 Certified | Tableau Certified Analyst
 
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
-
 ---
 
